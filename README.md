@@ -1,5 +1,5 @@
 # FaceDetection
 
 ## Importante antes de ejecutar instalar las librerias
-* OpenCV
+* OpenCV https://opencv.org/
 * Os
